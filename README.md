@@ -16,6 +16,7 @@ This repository surveys various Computer Vision papers to gather applicable new 
 
 - ### [YONTD-MOT](https://github.com/Woo-jin-Chung/2023_summer_paper_survey/tree/main/object_detetection/YONTD-MOT)
 
+- ### [What Can Human Sketches Do for Object Detection](https://github.com/Woo-jin-Chung/2023_summer_paper_survey/tree/main/object_detetection/what_can_human_sketches_do_for_object_detection)  (우진)
 
 ## Medical Visual
 - ### [MUMA](https://github.com/Woo-jin-Chung/2023_summer_paper_survey/tree/main/medical_visual/MUMA)
